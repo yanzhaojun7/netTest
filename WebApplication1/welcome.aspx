@@ -10,7 +10,7 @@
 <body>
     <form id="form1" runat="server">
        <asp:Label ID="Label1" runat="server" BackColor="#33CCFF" 
-        Text="Haige的第一个ASP.NET程序，请多多捧场"></asp:Label>
+        Text="yzj的第一个ASP.NET程序，请多多捧场。。。。"></asp:Label>
             <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" CellPadding="4"
                         ForeColor="#333333" GridLines="None">
                         <Columns>
